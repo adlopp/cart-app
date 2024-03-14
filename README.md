@@ -14,7 +14,7 @@ To install npm, execute the following commands.
 Once all the dependencies are installed, the person can run the project using the scripts defined in the package.json file.
 
 **$npm run dev**
-This will open the web application in your browser but you will need to have the API of the application running in order to get the data from the database. You can find the API repository here
+This will open the web application in your browser but you will need to have the API of the application running in order to get the data from the database. You can find the API repository [here](https://github.com/adlopp/cart-api)
 
 # How to run the API?
 Java Development Kit (JDK) version 17: The application is configured to use Java 17, so you need to have JDK 17 installed on your system.
