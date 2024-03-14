@@ -17,11 +17,11 @@ Once all the dependencies are installed, the person can run the project using th
 This will open the web application in your browser but you will need to have the API of the application running in order to get the data from the database. You can find the API repository [here](https://github.com/adlopp/cart-api)
 
 # How to run the API?
-Java Development Kit (JDK) version 17: The application is configured to use Java 17, so you need to have JDK 17 installed on your system.
+**Java Development Kit (JDK) version 17:** The application is configured to use Java 17, so you need to have JDK 17 installed on your system.
 
-Spring Boot: Since this is a Spring Boot project, you need to install the necessary Spring Boot dependencies to run the application. These dependencies will be handled automatically via Maven when you compile and run the project, so there's no need to install them manually.
+**Spring Boot:** Since this is a Spring Boot project, you need to install the necessary Spring Boot dependencies to run the application. These dependencies will be handled automatically via Maven when you compile and run the project, so there's no need to install them manually.
 
-Compile and run the project: Now you will be able to see data from the web app and not just a loading screen.
+**Compile and run the project:** Now you will be able to see data from the web app and not just a loading screen.
 
 If you want you can also use an application like Postman to see how the data is created when adding or deleting products.
 
