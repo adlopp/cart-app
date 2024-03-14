@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { getProducts } from "../Services/productService";
+import { getProducts } from "../services/productService";
 import { ProductCartView } from "./ProductCartView";
 
 export const CatalogView = ({handler}) => {
