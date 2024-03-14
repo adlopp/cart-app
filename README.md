@@ -9,11 +9,12 @@ You will need npm, the default package management system for Node.js, a runtime 
 
 To install npm, execute the following commands.
 
-**$cd <directory_project>**
-**$npm install**
+1. **$cd <directory_project>**
+2. **$npm install**
+
 Once all the dependencies are installed, the person can run the project using the scripts defined in the package.json file.
 
-**$npm run dev**
+3. **$npm run dev**
 This will open the web application in your browser but you will need to have the API of the application running in order to get the data from the database. You can find the API repository [here](https://github.com/adlopp/cart-api)
 
 # How to run the API?
